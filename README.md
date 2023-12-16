@@ -43,4 +43,4 @@ This project is licensed under the [LICENSE.md](LICENSE.md).
 - **Lukmanudhin M**  - [redJavaMan](https://github.com/redJavaMan)
 
 ## Acknowledgments
-- [nerdishShah] (https://github.com/nerdishShah)
+- [nerdishShah](https://github.com/nerdishShah)
