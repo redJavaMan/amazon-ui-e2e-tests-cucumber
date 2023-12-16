@@ -21,7 +21,6 @@ This project is an automated testing framework using Cucumber and Selenium WebDr
 To execute the test suite, run: `mvn test`
 
 ## Structure
-- **src/main/java**: Contains the main application code (if applicable).
 - **src/test/java**: Contains the test code with step definitions and support classes.
   - **com.amazon.ui.e2e.tests.steps**: Cucumber step definitions.
   - **com.amazon.ui.e2e.tests.pages**: Page Object Model classes.
